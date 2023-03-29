@@ -1,0 +1,1 @@
+# word-and-sentence-counter-in-folder
